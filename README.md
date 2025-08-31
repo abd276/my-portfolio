@@ -1,4 +1,4 @@
-# Abdulkadir Indorewala – Data Analyst Portfolio
+# Abdulkadir Indorewala – Portfolio
 
 ## About Me
 I’m an IT graduate skilled in Data Analytics & Software Development.
