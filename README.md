@@ -24,11 +24,11 @@ Databases: MySQL, SQL Server
 ## Projects
 
 ### Data Analytics Projects
-1. **Sales Dashboard (Excel)**  
-   - Built a dashboard tracking revenue, profit, and top products  
-   - [View Project](https://docs.google.com/spreadsheets/d/1oZKFIinJtNW20yuQqw1Lcu1YOvz7Vn8C/edit?usp=drive_link&ouid=108335137109364400473&rtpof=true&sd=true)
+1. ** Bike Sales Analysis **
+   - This project is about analyzing bike sales data using Microsoft Excel.
+   - [View Project](https://github.com/abd276/Bike-Dekho)
 
-2. **Mobile Sales Analytics Dashboard (Power BI)**  
+3. **Mobile Sales Analytics Dashboard (Power BI)**  
    - Interactive dashboard showing product trends, monthly sales enabling visual interaction.  
    - [View Dashboard](https://drive.google.com/drive/folders/1c3DY63NA26GxR4wZbPTGHzORUSeBEVMV?usp=drive_link)
 
