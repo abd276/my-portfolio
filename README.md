@@ -36,6 +36,10 @@ Databases: MySQL, SQL Server
    - Designed and implemented a SQL + Power BI + Python dashboard analyzing 1M+ U.S. flight records, uncovering key delay and cancellation patterns. Delivered data-driven insights and         recommendations that benchmarked airline and airport performance for operational improvements.
    - [View Project](https://drive.google.com/drive/folders/1kI7mo8fc8eVxyCasqFBWDWum2sDnKNOI?usp=drive_link)
 
+4. **IPL Analysis Project (Power BI)**
+   - This project analyzes the Indian Premier League (IPL) dataset using Power BI to explore player and team performance, toss impact, and venue trends. The analysis helps uncover
+     insights useful for coaches, analysts, and fans.
+   - [View Project](https://drive.google.com/drive/folders/1EsaxXomMvu2mhjoPPp8aD6_KGpzTt__o?usp=drive_link)
 
 ### Development Projects
 1. **Result Management System (Python & Flask)**  
@@ -46,5 +50,5 @@ Databases: MySQL, SQL Server
 
 ## Contact
 - Email: abdindore2@gmail.com
-- LinkedIn: [linkedin](https://www.linkedin.com/in/abdulkadir-indorewala-17859b288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- LinkedIn: [linkedin](https://www.linkedin.com/in/abdindore)  
 - GitHub: [github](https://github.com/abd276)
