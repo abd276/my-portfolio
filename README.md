@@ -41,6 +41,10 @@ Databases: MySQL, SQL Server
      insights useful for coaches, analysts, and fans.
    - [View Project](https://drive.google.com/drive/folders/1EsaxXomMvu2mhjoPPp8aD6_KGpzTt__o?usp=drive_link)
 
+5. **OLA Ride Analysis (SQL, Excel, Power BI, Streamlit)**
+   - End-to-end data analytics project using SQL, Power BI, and Streamlit to analyze Ola ride data and generate actionable business insights.
+   - [View Project](https://github.com/abd276/OLA-RIDES-ANALYSIS)
+
 ### Development Projects
 1. **Result Management System (Python & Flask)**  
    - Web app for admin manages results & student login to view results  
